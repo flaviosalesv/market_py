@@ -17,5 +17,5 @@ while len(products_list) < 3:
         if add_more != 'y':
             break
 
-print(products_list)
-print(products["brand"])
+#print(products_list)
+#print(products["brand"])
